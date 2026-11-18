@@ -10,14 +10,23 @@ Objetivo
 Desarrollar un sistema web que permita mejorar el control y seguimiento de inventarios mediante el uso de códigos de barras, almacenamiento estructurado de información y análisis de datos históricos.
 
 Tecnologías utilizadas
+
 React
+
 Vite
+
 JavaScript
+
 Node.js
+
 E-xpress
+
 PostgreSQL
+
 Python
+
 Flask
+
 Git y GitHub
 
 Funcionalidades principales
