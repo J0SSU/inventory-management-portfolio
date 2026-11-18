@@ -38,33 +38,54 @@ Historial de movimientos: seguimiento de las operaciones relacionadas con el inv
 Análisis predictivo: procesamiento de información histórica para identificar tendencias y estimar necesidades de abastecimiento.
 
 Organización de usuarios
--El sistema contempla diferentes perfiles de acceso para distribuir las responsabilidades dentro de -los procesos de inventario:
+El sistema contempla diferentes perfiles de acceso para distribuir las responsabilidades dentro de los procesos de inventario:
+
 -Administrador.
+
 -Ingeniería.
+
 -Almacén.
+
 -Compras.
+
 Cada perfil dispone de funcionalidades relacionadas con sus responsabilidades dentro del sistema.
 
 Participación en el desarrollo
 Durante el desarrollo del proyecto se trabajó en distintas etapas del ciclo de vida del software:
+
 -Análisis de procesos y necesidades.
+
 -Identificación y documentación de requerimientos.
+
 -Diseño de la arquitectura y estructura de la base de datos.
+
 -Desarrollo de interfaces y componentes frontend.
+
 -Implementación de servicios backend y operaciones con la base de datos.
+
 -Integración del escaneo de códigos de barras.
+
 -Desarrollo e integración del componente de análisis predictivo.
+
 -Pruebas, integración y despliegue de los servicios.
 
 Aprendizajes y conocimientos aplicados
 Este proyecto permitió fortalecer conocimientos relacionados con:
+
 -Desarrollo de aplicaciones web.
+
 -Programación frontend y backend.
+
 -Diseño y administración de bases de datos relacionales.
+
 -Consumo e integración de API REST.
+
 -Procesamiento de datos con Python.
+
 -Control de versiones con Git.
+
 -Integración y despliegue de aplicaciones en servicios de nube.
+
 -Análisis, diseño y documentación de software.
 
 Consideraciones de privacidad
@@ -72,6 +93,9 @@ Este repositorio tiene fines demostrativos y de presentación profesional. Por m
 Las imágenes y los datos que se incorporen a esta presentación serán exclusivamente demostrativos.
 
 Estado del repositorio
+
 Tipo: Caso de estudio profesional.
+
 Propósito: Presentación de experiencia y conocimientos técnicos.
+
 Código fuente: No incluido en este repositorio.
